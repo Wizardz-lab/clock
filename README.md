@@ -1,2 +1,5 @@
-# clock
-a simple working clock on the web 
+# Web Clock
+
++ Made with HTML, CSS AND JAVASCRIPT
+
+## By mxkay#2551 on Discord
